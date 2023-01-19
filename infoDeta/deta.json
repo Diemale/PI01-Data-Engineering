@@ -1,0 +1,10 @@
+{
+        "name": "PI01-Data-Engineering",
+        "id": "053e1df6-3e6f-40a1-8876-633d65a69a53",
+        "project": "e0c0or5p",
+        "runtime": "python3.9",
+        "endpoint": "https://ggnii8.deta.dev",
+        "region": "sa-east-1",
+        "visor": "disabled",
+        "http_auth": "disabled"
+}
